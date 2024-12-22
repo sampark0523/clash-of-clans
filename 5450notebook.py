@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SS0zb1X-sFZ-1c7wB5VWY8XGQDpfZCfp
 
 # **CIS 5450 Final Project - Clash of Clans Clan War Performance Prediction**
-*Wesley Liu, Sam Park, David Lee*
+*Wesley Liu, David Lee, Sam Park*
 
 # Part 1: Introduction
 
